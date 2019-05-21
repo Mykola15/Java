@@ -14,6 +14,7 @@ public class Main {
                         System.out.println("What do you want to buy?" +
                                 "\n1 - latte" +
                                 "\n2 - espresso" +
+
                                 "\n3 - cappuccino");
                         int in = scan.nextInt();
                         switch (in) {
